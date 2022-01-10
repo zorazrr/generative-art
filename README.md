@@ -6,7 +6,7 @@ Here is an index:
 
 | Name      | Image |
 | ----------- | ----------- |
-| Interruption      | <img src = "interruption/sample.png" style ="width:100px;height:100px; margin-left:40px;">       |
+| Interruption      | <img src = "Interruption/sample.png" style ="width:100px;height:100px; margin-left:40px;">       |
 | Rabin-Karp Search Generated Animation   | <img src = "Rabin_Karp/sample.png" style ="width:100px;height:100px; margin-left:40px;">  |
 | Sampling (Poisson-Disk)  | <img src = "Sampling/sample.png" style ="width:100px;height:100px; margin-left:40px;"> |      
 | Simulted Annealing Generated Circles  | <img src = "Simulated_Annealing/sample.png" style ="width:100px;height:100px; margin-left:40px;">|
